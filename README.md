@@ -10,14 +10,14 @@ Sorting algorithm between 2 stacks.
 	if number of digits > 5 and number == **500** - no more then **5300** operations  
 **./checker** - using commands make manipulations with stacks "a" and show the result **OK**/**KO**
 
-###How to run?
+##How to run?
 ```
 make
 ```
 ```
 A="2 3 1"; ./push_swap $A | ./cheker $A
 ```
-###push_swap
+##push_swap
 ```
 ./push_swap 2 3 1
 ```
